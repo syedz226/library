@@ -1,6 +1,6 @@
 def gd(repo)
 {
-  git 'https://github.com/IntelliqDevops/${repo}.git'
+  git "https://github.com/IntelliqDevops/${repo}.git"
 }
 
 def cb()
