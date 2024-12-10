@@ -1,4 +1,4 @@
-def gitDownload(repo)
+def gd(repo)
 {
   git 'https://github.com/IntelliqDevops/${repo}.git'
 }
